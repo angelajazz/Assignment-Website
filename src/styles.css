@@ -104,6 +104,6 @@ p {
   text-decoration: none;
 }
 
-.img-fluid {
+.d-none d-sm-block img-fluid rounded {
   box-shadow: var(--box-shadow);
 }
